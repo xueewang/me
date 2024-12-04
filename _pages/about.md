@@ -2,7 +2,7 @@
 layout: homepage
 title: homepage
 permalink: /
-subtitle: 👋🏻 Hi there, I’m Xue Wang.
+subtitle: Hi there, I’m Xue Wang.
 
 profile:
   align: right
