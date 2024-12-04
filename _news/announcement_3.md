@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending CHI 2024 in-person in Hawaii 🌺
+Attending CHI 2024 in-person in Hawaii 🌺!
