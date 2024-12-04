@@ -1,6 +1,6 @@
 ---
-layout: homepage
-title: homepage
+layout: about
+title: about
 permalink: /
 subtitle: Hi there, I’m Xue Wang.
 
