@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: protrait_xw.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -18,4 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a third-year PhD Candidate in [Electrical and Computer Engineering at the University of California, Los Angeles](https://www.ee.ucla.edu/), advised by [Prof. Yang Zhang](https://yangzhang.dev/) in the [Human-Centered Computing & Intelligent Sensing Lab](https://hilab.dev/).
+
+My research focuses on human-computer interaction in wearable sensing, such as VR/AR glasses, smartwatches, or smart rings. In my research, I designed some innovative systems that can recognize activities, interpret speech, or estimate pose and gestures, to create more intuitive interactions. I hope my work can enhance user experiences, by making technology more naturally responsive to human actions.
+
+Happy to share my research journey with you!
