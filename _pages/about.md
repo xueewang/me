@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: homepage
+title: homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 👋🏻 Hi there, I’m Xue Wang.
 
 profile:
   align: right
