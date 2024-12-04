@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi there, I’m Xue Wang.
+subtitle: Hi there! I'm Xue Wang.
 
 profile:
   align: right
