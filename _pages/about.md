@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: homepage
 permalink: /
-subtitle: Hi there! I'm Xue Wang.
+subtitle: 👋🏻 Hi there! I'm Xue Wang.
 
 profile:
   align: right
