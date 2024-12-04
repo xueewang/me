@@ -6,7 +6,7 @@ subtitle: 👋🏻 Hi there, I’m Xue Wang.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait_xw.jpeg
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
