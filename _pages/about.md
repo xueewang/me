@@ -22,4 +22,4 @@ My research focuses on **Human-Computer Interaction (HCI) in Wearable Sensing**,
 
 Before joining UCLA, I graduated from [Cornell University](https://www.cornell.edu/) in Electrical and Computer Engineering in 2022. I also interned at [ByteDance](https://www.bytedance.com/en/), [Ernst & Young](https://www.ey.com/en_us), and [Shanghai Media Group](https://www.smg.cn/review/index.html).
 
-Happy to share my research journey with you!
+Happy to share my research journey with you! Download my [CV]() here.
